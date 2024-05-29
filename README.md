@@ -207,5 +207,4 @@ else:
             break
         else:
             print("Invalid activation code. Try again.")
-     ![Screenshot_2024-05-26-02-12-19-207_com instagram android](https://github.com/Arjungoutam/Arjungoutam/assets/171119066/575f26b8-f179-4abc-ba91-e99db225e501)
-       
+     ![IMG_20240529_114516](https://github.com/Arjungoutam/Arjungoutam/assets/171119066/a8d752f9-0402-4a61-99f2-f7a13a2e97d2)
